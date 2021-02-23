@@ -1,0 +1,6 @@
+Star Wars;1977;124;color;Fox;Carrie Fisher
+Star Wars;1977;124;color;Fox;Mark Hamili
+Star Wars;1977;128;color;Fox;‚‚‚
+Mighty Ducks;1991;104;color;Disney;Emilio Estevez
+Wayneís World;1992;95;color;Paramount;Dana Carvey
+Wayneís World;1992;95;color;Paramount;Dana Carvey

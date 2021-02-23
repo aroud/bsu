@@ -1,0 +1,6 @@
+Star Wars	1977	124	color	01	Carrie Fisher
+Star Wars	1977	124	color	01	Mark Hamili
+Star Wars	1977	128	color	01	Harrison Ford
+Mighty Ducks	1991	104	color	02	Emilio Estevez
+Wayne’s World	1992	95	color	03	Dana Carvey
+Wayne’s World	1992	95	color	03	Dana Carvey
